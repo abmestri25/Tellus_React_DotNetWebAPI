@@ -1,0 +1,86 @@
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.exe
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.deps.json
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.runtimeconfig.json
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.runtimeconfig.dev.json
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.pdb
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.csproj.AssemblyReference.cache
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.AssemblyInfoInputs.cache
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.AssemblyInfo.cs
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.csproj.CoreCompileInputs.cache
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\staticwebassets\TeamsAPI.StaticWebAssets.Manifest.cache
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\staticwebassets\TeamsAPI.StaticWebAssets.xml
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\TeamsAPI.styles.css
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.RazorTargetAssemblyInfo.cache
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.dll
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.pdb
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.genruntimeconfig.cache
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.csproj.CopyComplete
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.exe
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.deps.json
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.runtimeconfig.json
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.runtimeconfig.dev.json
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\TeamsAPI.pdb
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.csproj.AssemblyReference.cache
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.AssemblyInfoInputs.cache
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.AssemblyInfo.cs
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.csproj.CoreCompileInputs.cache
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\staticwebassets\TeamsAPI.StaticWebAssets.Manifest.cache
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\staticwebassets\TeamsAPI.StaticWebAssets.xml
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\TeamsAPI.styles.css
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.csproj.CopyComplete
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.dll
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.pdb
+C:\Users\AbhishekMestri\OneDrive - Hirdhav Software Pvt. Ltd\Desktop\Tellus\TeamsAPI\TeamsAPI\obj\Debug\netcoreapp3.1\TeamsAPI.genruntimeconfig.cache
